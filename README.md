@@ -1,5 +1,5 @@
 <div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img data-importer="image" height="159" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHQ3bWRwd2R6NHFmcTlzNGFidHdjeTdibzBzOTlwZmg3c3Q0enk5dSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/qyv59JLK2Q0Or2qt0H/giphy.gif"  />
 </div>
 
 ###
@@ -14,20 +14,20 @@
 
 <div data-importer="socials" align="center">
   <a href="www.linkedin.com/in/islamahmedkamel" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="42" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo"  />
   </a>
   <a href="islamahmedkamel592@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="42" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="gmail logo"  />
   </a>
 </div>
 
 ###
 
-<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
+<h1 data-importer="text" align="left">👩‍💻  About Me</h1>
 
 ###
 
-<p data-importer="text" align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<h4 data-importer="text" align="left">A  Flutter developer and  with a Bachelor's degree in Computer Science & AI, specialized in building scalable mobile apps using clean architecture, Bloc/Cubit, and Firebase. Based in Cairo, Egypt, I thrive on solving problems .<br><br>-  🌱 Learning: Advanced Flutter architecture (TDD, Clean Architecture) and performance optimization<br>- 💬 Ask me about: Flutter, Dart, Firebase, Clean Architecture, Bloc/Cubit, or mobile app development<br>-  📫 Reach me: islamahmedkamel592@gmail.com</h4>
 
 ###
 
