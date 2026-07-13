@@ -27,36 +27,18 @@
 
 ###
 
-<h4 data-importer="text" align="left">A  Flutter developer and  with a Bachelor's degree in Computer Science & AI, specialized in building scalable mobile apps using clean architecture, Bloc/Cubit, and Firebase. Based in Cairo, Egypt, I thrive on solving problems .<br><br>-  🌱 Learning: Advanced Flutter architecture (TDD, Clean Architecture) and performance optimization<br>- 💬 Ask me about: Flutter, Dart, Firebase, Clean Architecture, Bloc/Cubit, or mobile app development<br>-  📫 Reach me  :mailto:amgonemilwork@gmail.com</h4>
+<h4 data-importer="text" align="left">A  Flutter developer and  with a Bachelor's degree in Computer Science & AI, specialized in building scalable mobile apps using clean architecture, Bloc/Cubit, and Firebase. Based in Cairo, Egypt, I thrive on solving problems .<br><br>-  🌱 Learning: Advanced Flutter architecture (Clean Architecture) and performance optimization<br>- 💬 Ask me about: Flutter, Dart, Firebase, Clean Architecture, Bloc/Cubit, or mobile app development<br>-  📫 Reach me  :mailto:amgonemilwork@gmail.com</h4>
 
 ###
 
-<h3 data-importer="text" align="left">🛠 Language and tools</h3>
+<h2 data-importer="text" align="left">🛠  Skills & Tools</h2>
 
 ###
 
 <div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
 </div>
-
-###
-
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
 
 ###
