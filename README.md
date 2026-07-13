@@ -1,9 +1,3 @@
-README.md
-
-Your Readme is Done 🎉🎉🎉
-Star This Project
-Fork on Github
-
 <div data-importer="image" align="center">
   <img data-importer="image" height="200" src="https://w0.peakpx.com/wallpaper/433/154/HD-wallpaper-hacker-hood-code-programming.jpg"  />
 </div>
@@ -61,7 +55,7 @@ Fork on Github
 
 ###
 
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
+<h1 data-importer="text" align="left">🔥   My Stats :</h1>
 
 ###
 A white circle with a dark file icon outlined in the center
