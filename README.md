@@ -27,7 +27,7 @@
 
 ###
 
-<h4 data-importer="text" align="left">A  Flutter developer and  with a Bachelor's degree in Computer Science & AI, specialized in building scalable mobile apps using clean architecture, Bloc/Cubit, and Firebase. Based in Cairo, Egypt, I thrive on solving problems .<br><br>-  🌱 Learning: Advanced Flutter architecture (TDD, Clean Architecture) and performance optimization<br>- 💬 Ask me about: Flutter, Dart, Firebase, Clean Architecture, Bloc/Cubit, or mobile app development<br>-  📫 Reach me: islamahmedkamel592@gmail.com</h4>
+<h4 data-importer="text" align="left">A  Flutter developer and  with a Bachelor's degree in Computer Science & AI, specialized in building scalable mobile apps using clean architecture, Bloc/Cubit, and Firebase. Based in Cairo, Egypt, I thrive on solving problems .<br><br>-  🌱 Learning: Advanced Flutter architecture (TDD, Clean Architecture) and performance optimization<br>- 💬 Ask me about: Flutter, Dart, Firebase, Clean Architecture, Bloc/Cubit, or mobile app development<br>-  📫 Reach me  :mailto:amgonemilwork@gmail.com</h4>
 
 ###
 
