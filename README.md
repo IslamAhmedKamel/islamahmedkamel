@@ -1,7 +1,6 @@
 ## 👋 Hey, I'm Islam Ahmed Kamel!
 <a href='https://www.linkedin.com/in/islam-kamel-6ba18021b/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://github.com/IslamAhmedKamel'><img align='left' alt="github" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/github.svg" height='18px'/></a>
-<a href='https://www.facebook.com/islam.kamel.18041/'><img alt="facebook" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/facebook.svg" height='18px'/></a>
+<a href='https://github.com/IslamAhmedKamel'><img align='left' alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" height='18px'/></a>
 
 
 I am a passionate **Flutter Developer** 📱 with a knack for crafting beautiful, high-performance mobile applications. I love turning complex problems into elegant, user-friendly solutions. I'm always eager to learn new technologies and improve my skills to build the best possible apps. 🛠️
@@ -24,34 +23,68 @@ I am a passionate **Flutter Developer** 📱 with a knack for crafting beautiful
 <br>
 
 ### 🔨 Languages and Tools:
-<a href="https://flutter.dev" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/flutter/flutter.svg" alt="flutter" height="42px"/> </a>
-<a href="https://dart.dev" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/dart/dart.svg" alt="dart" height="42px"/> </a>
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height="42px"/> </a>
-<a href="https://developer.android.com/studio" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg" alt="android" height="42px"/> </a>
-<a href="https://developer.apple.com/xcode/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/apple/apple.svg" alt="ios" height="42px"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" alt="git" height="42px"/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height="42px"/> </a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 
+<!-- Flutter & Dart الأساسية -->
+<a href="https://flutter.dev" target="_blank"> <img align="left" src="https://img.icons8.com/color/48/000000/flutter.png" alt="flutter" height="42px"/> </a>
+<a href="https://dart.dev" target="_blank"> <img align="left" src="https://img.icons8.com/color/48/000000/dart.png" alt="dart" height="42px"/> </a>
+<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://img.icons8.com/color/48/000000/firebase.png" alt="firebase" height="42px"/> </a>
+
+<!-- بيئات التطوير -->
+<a href="https://developer.android.com/studio" target="_blank"> <img align="left" src="https://img.icons8.com/color/48/000000/android-studio--v3.png" alt="android studio" height="42px"/> </a>
+<a href="https://developer.apple.com/xcode/" target="_blank"> <img align="left" src="https://img.icons8.com/color/48/000000/xcode.png" alt="xcode" height="42px"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img align="left" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vs code" height="42px"/> </a>
+
+<!-- إدارة الإصدارات -->
+<a href="https://git-scm.com/" target="_blank"> <img align="left" src="https://img.icons8.com/color/48/000000/git.png" alt="git" height="42px"/> </a>
+<a href="https://github.com/" target="_blank"> <img align="left" src="https://img.icons8.com/color/48/000000/github--v1.png" alt="github" height="42px"/> </a>
+
+<!-- التصميم -->
+<a href="https://www.figma.com/" target="_blank"> <img align="left" src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="figma" height="42px"/> </a>
+<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="left" src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png" alt="adobe xd" height="42px"/> </a>
+
+<!-- لغات برمجة إضافية -->
+<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"></a>
+<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://img.icons8.com/color/48/000000/kotlin.png"></a>
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://img.icons8.com/color/48/000000/python--v1.png"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"> </a>
+
+<!-- أدوات إضافية -->
+<a href="https://postman.com" target="_blank"> <img align="left" src="https://img.icons8.com/color/48/000000/postman-api.png" alt="postman" height="42px"/> </a>
+<a href="https://www.sqlite.org/" target="_blank"> <img align="left" src="https://img.icons8.com/color/48/000000/sqlite.png" alt="sqlite" height="42px"/> </a>
+
+<br>
+<br>
 <br>
 <br>
 
 ### 📊 Github Stats
-<a href='https://github.com/IslamAhmedKamel'>
-  
-![Stats Overview](https://github-readme-stats.vercel.app/api?username=IslamAhmedKamel&show_icons=true&theme=radical)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IslamAhmedKamel&layout=compact&theme=radical)
 
-</a>
+<!-- صورة إحصائيات أساسية مع مدة تخزين مؤقت طويلة -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IslamAhmedKamel&show_icons=true&theme=radical&cache_seconds=86400" alt="Islam's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IslamAhmedKamel&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" width="48%" />
+</p>
+
+<!-- إحصائيات بديلة تعمل دائماً -->
+<details>
+<summary><b>📊 عرض إحصائيات بديلة (تعمل دائماً)</b></summary>
+<br>
+<p align="center">
+  <a href="https://github.com/IslamAhmedKamel">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IslamAhmedKamel&theme=radical" alt="Islam's GitHub Stats"/>
+  </a>
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IslamAhmedKamel&theme=radical" alt="Repos per language" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IslamAhmedKamel&theme=radical" alt="Most commit language" width="48%" />
+</p>
+</details>
 
 <br>
 
 ### 🛠️ My Projects
-<a href="https://github.com/IslamAhmedKamel/food_delivery_app" target="_blank"> <img alt="Food Delivery App" src="https://img.shields.io/badge/-Food%20Delivery%20App-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="28" align="left"> </a>
-<a href="https://github.com/IslamAhmedKamel/e_commerce_app" target="_blank"> <img alt="E-Commerce App" src="https://img.shields.io/badge/-E--Commerce%20App-FF6F00?style=for-the-badge&logo=flutter&logoColor=white" height="28" align="left"> </a>
-<a href="https://github.com/IslamAhmedKamel/notes_app" target="_blank"> <img alt="Notes App" src="https://img.shields.io/badge/-Notes%20App-4CAF50?style=for-the-badge&logo=flutter&logoColor=white" height="28" align="left"> </a>
-<a href="https://github.com/IslamAhmedKamel/weather_app" target="_blank"> <img alt="Weather App" src="https://img.shields.io/badge/-Weather%20App-2196F3?style=for-the-badge&logo=flutter&logoColor=white" height="28" align="left"> </a>
-<a href="https://github.com/IslamAhmedKamel/todo_app" target="_blank"> <img alt="To-Do App" src="https://img.shields.io/badge/-To--Do%20App-9C27B0?style=for-the-badge&logo=flutter&logoColor=white" height="28" align="left"> </a>
+<a href="https://github.com/IslamAhmedKamel/note_app" target="_blank"> <img alt="Note App" src="https://img.shields.io/badge/-Note%20App-4CAF50?style=for-the-badge&logo=flutter&logoColor=white" height="28" align="left"> </a>
+<a href="https://github.com/IslamAhmedKamel/tune_app" target="_blank"> <img alt="Tune App" src="https://img.shields.io/badge/-Tune%20App-FF6F00?style=for-the-badge&logo=flutter&logoColor=white" height="28" align="left"> </a>
+<a href="https://github.com/IslamAhmedKamel/counter_points_first_project" target="_blank"> <img alt="Counter Points" src="https://img.shields.io/badge/-Counter%20Points-9C27B0?style=for-the-badge&logo=flutter&logoColor=white" height="28" align="left"> </a>
+<a href="https://github.com/IslamAhmedKamel/project-one" target="_blank"> <img alt="Project One" src="https://img.shields.io/badge/-Project%20One-2196F3?style=for-the-badge&logo=flutter&logoColor=white" height="28" align="left"> </a>
+<a href="https://github.com/IslamAhmedKamel/E_commerece_App" target="_blank"> <img alt="E-Commerce App" src="https://img.shields.io/badge/-E--Commerce%20App-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="28" align="left"> </a>
 <a href="https://github.com/IslamAhmedKamel" target="_blank"> <img alt="More Projects" src="https://img.shields.io/badge/-More%20Projects-000000?style=for-the-badge&logo=github&logoColor=white" height="28" align="left"> </a>
