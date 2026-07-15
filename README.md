@@ -16,21 +16,13 @@
 
 - 🔭 &nbsp; I’m currently working on **"E-Commerce App"** using Flutter and RESTful APIs.
 - 🌱 &nbsp; I’m currently diving deeper into **State Management (Bloc/Cubit)** and **MVVM Architecture**.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/IslamAhmedKamel?tab=repositories).
+- 👨🏻‍💻 &nbsp; Most of my projects are available on **[Github](https://github.com/IslamAhmedKamel?tab=repositories)**.
 - 💬 &nbsp; Ask me about **Flutter, Dart, RESTful APIs, or Mobile Development**—I'm happy to help!
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/islamahmedkamel/).
-- 📝 &nbsp; Checkout my [CV/Resume](https://drive.google.com/file/d/1MwIZvbojOboakhgBCQtP7s8oOWQkIrvr/view).
+- 📫 &nbsp; Feel free to ping me on **[LinkedIn](https://www.linkedin.com/in/islamahmedkamel/)**.
+- 📧 &nbsp; Or email me at **[Email](mailto:islamahmedkamel592@gmail.com)**.
+- 📝 &nbsp; Checkout my **[Resume](https://drive.google.com/file/d/1MwIZvbojOboakhgBCQtP7s8oOWQkIrvr/view)**.
 - 🌍 &nbsp; I speak Arabic (Native) and English (Professional Working).
 - ⚡ &nbsp; Fun Fact: I love UI/UX design and often find myself tweaking pixel-perfect layouts.
-
-<br>
-
-### 📫 Contact Me
-<p align="center">
-  <a href="mailto:islamahmedkamel592@gmail.com">
-    <img src="https://img.shields.io/badge/Email-islamahmedkamel592@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
 
 <br>
 
@@ -54,7 +46,7 @@
 <a href="https://www.figma.com/" target="_blank"> <img align="left" src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="figma" height="42px"/> </a>
 
 <!-- أدوات إضافية -->
-<a href="https://postman.com" target="_blank"> <img align="left" src="https://img.icons8.com/color/48/000000/postman-api.png" alt="postman" height="42px"/> </a>
+<a href="https://postman.com" target="_blank"> <img align="left" src="https://img.icons8.com/fluency/48/000000/postman.png" alt="postman" height="42px"/> </a>
 
 <br>
 <br>
@@ -73,13 +65,21 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IslamAhmedKamel&theme=radical" alt="Repos per language" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IslamAhmedKamel&theme=radical" alt="Most commit language" width="48%" />
+  <a href="https://github.com/IslamAhmedKamel">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IslamAhmedKamel&theme=radical" alt="Repos per language" width="48%" />
+  </a>
+  <a href="https://github.com/IslamAhmedKamel">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IslamAhmedKamel&theme=radical" alt="Most commit language" width="48%" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IslamAhmedKamel&theme=radical" alt="Stats" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IslamAhmedKamel&theme=radical&utcOffset=2" alt="Productive Time" width="48%" />
+  <a href="https://github.com/IslamAhmedKamel">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IslamAhmedKamel&theme=radical" alt="Stats" width="48%" />
+  </a>
+  <a href="https://github.com/IslamAhmedKamel">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IslamAhmedKamel&theme=radical&utcOffset=2" alt="Productive Time" width="48%" />
+  </a>
 </p>
 
 <br>
