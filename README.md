@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Islam Ahmed Kamel!
 <a href='https://www.linkedin.com/in/islam-kamel-6ba18021b/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://github.com/Islam-Ahmed-Kamel'><img align='left' alt="github" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/github.svg" height='18px'/></a>
+<a href='https://github.com/IslamAhmedKamel'><img align='left' alt="github" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/github.svg" height='18px'/></a>
 <a href='https://www.facebook.com/islam.kamel.18041/'><img alt="facebook" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/facebook.svg" height='18px'/></a>
 
 
@@ -14,7 +14,7 @@ I am a passionate **Flutter Developer** 📱 with a knack for crafting beautiful
 
 - 🔭 &nbsp; I’m currently working on **"Food Delivery App"** using Flutter and Firebase.
 - 🌱 &nbsp; I’m currently diving deeper into **Advanced State Management (Riverpod/Bloc)** and **Clean Architecture**.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Islam-Ahmed-Kamel?tab=repositories).
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/IslamAhmedKamel?tab=repositories).
 - 💬 &nbsp; Ask me about **Flutter, Dart, Firebase, or Mobile Development**—I'm happy to help!
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/islam-kamel-6ba18021b/).
 - 📝 &nbsp; Checkout my [CV/Resume](https://drive.google.com/file/d/1MwIZvbojOboakhgBCQtP7s8oOWQkIrvr/view).
@@ -39,19 +39,19 @@ I am a passionate **Flutter Developer** 📱 with a knack for crafting beautiful
 <br>
 
 ### 📊 Github Stats
-<a href='https://github.com/Islam-Ahmed-Kamel'>
+<a href='https://github.com/IslamAhmedKamel'>
   
-![Stats Overview](https://github-readme-stats.vercel.app/api?username=Islam-Ahmed-Kamel&show_icons=true&theme=radical)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Islam-Ahmed-Kamel&layout=compact&theme=radical)
+![Stats Overview](https://github-readme-stats.vercel.app/api?username=IslamAhmedKamel&show_icons=true&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IslamAhmedKamel&layout=compact&theme=radical)
 
 </a>
 
 <br>
 
 ### 🛠️ My Projects
-<a href="https://github.com/Islam-Ahmed-Kamel/food_delivery_app" target="_blank"> <img alt="Food Delivery App" src="https://img.shields.io/badge/-Food%20Delivery%20App-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="28" align="left"> </a>
-<a href="https://github.com/Islam-Ahmed-Kamel/e_commerce_app" target="_blank"> <img alt="E-Commerce App" src="https://img.shields.io/badge/-E--Commerce%20App-FF6F00?style=for-the-badge&logo=flutter&logoColor=white" height="28" align="left"> </a>
-<a href="https://github.com/Islam-Ahmed-Kamel/notes_app" target="_blank"> <img alt="Notes App" src="https://img.shields.io/badge/-Notes%20App-4CAF50?style=for-the-badge&logo=flutter&logoColor=white" height="28" align="left"> </a>
-<a href="https://github.com/Islam-Ahmed-Kamel/weather_app" target="_blank"> <img alt="Weather App" src="https://img.shields.io/badge/-Weather%20App-2196F3?style=for-the-badge&logo=flutter&logoColor=white" height="28" align="left"> </a>
-<a href="https://github.com/Islam-Ahmed-Kamel/todo_app" target="_blank"> <img alt="To-Do App" src="https://img.shields.io/badge/-To--Do%20App-9C27B0?style=for-the-badge&logo=flutter&logoColor=white" height="28" align="left"> </a>
-<a href="https://github.com/Islam-Ahmed-Kamel" target="_blank"> <img alt="More Projects" src="https://img.shields.io/badge/-More%20Projects-000000?style=for-the-badge&logo=github&logoColor=white" height="28" align="left"> </a>
+<a href="https://github.com/IslamAhmedKamel/food_delivery_app" target="_blank"> <img alt="Food Delivery App" src="https://img.shields.io/badge/-Food%20Delivery%20App-02569B?style=for-the-badge&logo=flutter&logoColor=white" height="28" align="left"> </a>
+<a href="https://github.com/IslamAhmedKamel/e_commerce_app" target="_blank"> <img alt="E-Commerce App" src="https://img.shields.io/badge/-E--Commerce%20App-FF6F00?style=for-the-badge&logo=flutter&logoColor=white" height="28" align="left"> </a>
+<a href="https://github.com/IslamAhmedKamel/notes_app" target="_blank"> <img alt="Notes App" src="https://img.shields.io/badge/-Notes%20App-4CAF50?style=for-the-badge&logo=flutter&logoColor=white" height="28" align="left"> </a>
+<a href="https://github.com/IslamAhmedKamel/weather_app" target="_blank"> <img alt="Weather App" src="https://img.shields.io/badge/-Weather%20App-2196F3?style=for-the-badge&logo=flutter&logoColor=white" height="28" align="left"> </a>
+<a href="https://github.com/IslamAhmedKamel/todo_app" target="_blank"> <img alt="To-Do App" src="https://img.shields.io/badge/-To--Do%20App-9C27B0?style=for-the-badge&logo=flutter&logoColor=white" height="28" align="left"> </a>
+<a href="https://github.com/IslamAhmedKamel" target="_blank"> <img alt="More Projects" src="https://img.shields.io/badge/-More%20Projects-000000?style=for-the-badge&logo=github&logoColor=white" height="28" align="left"> </a>
