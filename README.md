@@ -1,13 +1,31 @@
 ## <h1 align="center">👋 Hey, I'm Islam Ahmed Kamel!</h1>
 
 <p align="center">
+  <a href='https://islamahmedkamel592.getportify.com/'><img alt="portfolio" src="https://img.icons8.com/color/48/000000/portfolio.png" height='22px'/></a>
   <a href='https://www.linkedin.com/in/islamahmedkamel/'><img alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='22px'/></a>
+  <a href='mailto:islamahmedkamel592@gmail.com'><img alt="email" src="https://img.icons8.com/color/48/000000/gmail-new.png" height='22px'/></a>
   <a href='https://github.com/IslamAhmedKamel'><img alt="github" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" height='22px'/></a>
 </p>
 
 <p align="center">
-  I am a passionate <strong>Flutter Developer</strong> 📱 with a knack for crafting beautiful, high-performance mobile applications. I love turning complex problems into elegant, user-friendly solutions. I'm always eager to learn new technologies and improve my skills to build the best possible apps. 🛠️
+  <strong>Software Engineer | Flutter Developer | Mobile Development Instructor</strong>
 </p>
+
+<p align="center">
+  <a href="https://islamahmedkamel592.getportify.com/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/islamahmedkamel/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:islamahmedkamel592@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/IslamAhmedKamel">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
 <br/>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
