@@ -32,7 +32,6 @@
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I'm currently working on **"E-Commerce App"** using Flutter and RESTful APIs.
 - 🌱 &nbsp; I'm currently diving deeper into **State Management (Bloc/Cubit)** and **MVVM Architecture**.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on **[Github](https://github.com/IslamAhmedKamel?tab=repositories)**.
 - 💬 &nbsp; Ask me about **Flutter, Dart, RESTful APIs, or Mobile Development**—I'm happy to help!
