@@ -22,19 +22,23 @@
   <a href="https://github.com/IslamAhmedKamel">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://drive.google.com/file/d/1r906fzCOkLcgUMK4DrdAc_YKwa_BIbad/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/RESUME-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+  </a>
 </p>
 
 <br/>
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **"E-Commerce App"** using Flutter and RESTful APIs.
-- 🌱 &nbsp; I’m currently diving deeper into **State Management (Bloc/Cubit)** and **MVVM Architecture**.
+- 🔭 &nbsp; I'm currently working on **"E-Commerce App"** using Flutter and RESTful APIs.
+- 🌱 &nbsp; I'm currently diving deeper into **State Management (Bloc/Cubit)** and **MVVM Architecture**.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on **[Github](https://github.com/IslamAhmedKamel?tab=repositories)**.
 - 💬 &nbsp; Ask me about **Flutter, Dart, RESTful APIs, or Mobile Development**—I'm happy to help!
 - 📫 &nbsp; Feel free to ping me on **[LinkedIn](https://www.linkedin.com/in/islamahmedkamel/)**.
 - 📧 &nbsp; Or email me at **[Email](mailto:islamahmedkamel592@gmail.com)**.
-- 📝 &nbsp; Checkout my **[Resume]([https://drive.google.com/file/d/1pZ0hdqk21BWy9wm1uOVJYtv-sHLeOLnP/view](https://drive.google.com/file/d/1r906fzCOkLcgUMK4DrdAc_YKwa_BIbad/view?usp=drive_link))**.
+- 📝 &nbsp; Checkout my **[Resume](https://drive.google.com/file/d/1r906fzCOkLcgUMK4DrdAc_YKwa_BIbad/view?usp=drive_link)**.
 - 🌍 &nbsp; I speak Arabic (Native) and English (Professional Working).
 - ⚡ &nbsp; Fun Fact: I love UI/UX design and often find myself tweaking pixel-perfect layouts.
 
