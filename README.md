@@ -34,7 +34,7 @@
 - 💬 &nbsp; Ask me about **Flutter, Dart, RESTful APIs, or Mobile Development**—I'm happy to help!
 - 📫 &nbsp; Feel free to ping me on **[LinkedIn](https://www.linkedin.com/in/islamahmedkamel/)**.
 - 📧 &nbsp; Or email me at **[Email](mailto:islamahmedkamel592@gmail.com)**.
-- 📝 &nbsp; Checkout my **[Resume](https://drive.google.com/file/d/1pZ0hdqk21BWy9wm1uOVJYtv-sHLeOLnP/view)**.
+- 📝 &nbsp; Checkout my **[Resume]([https://drive.google.com/file/d/1pZ0hdqk21BWy9wm1uOVJYtv-sHLeOLnP/view](https://drive.google.com/file/d/1r906fzCOkLcgUMK4DrdAc_YKwa_BIbad/view?usp=drive_link))**.
 - 🌍 &nbsp; I speak Arabic (Native) and English (Professional Working).
 - ⚡ &nbsp; Fun Fact: I love UI/UX design and often find myself tweaking pixel-perfect layouts.
 
